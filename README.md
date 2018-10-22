@@ -12,7 +12,7 @@
 ## 代码
 - [Tensorflow中文社区指南](http://www.tensorfly.cn/tfdoc/tutorials/overview.html)
 - [Keras中文文档](https://keras-cn.readthedocs.io/en/latest/)
-- [PyTorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
+- [PyTorch中文网](https://www.pytorchtutorial.com/)
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
 ## Easy-Demo
