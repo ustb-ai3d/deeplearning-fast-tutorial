@@ -10,9 +10,17 @@
 - [课件及作业（李宏毅）](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
 
 ## 代码
+
+### PyTorch (recommended)
+- [PyTorch中文网](https://www.pytorchtutorial.com/) 寻找学习资源用
+- [PyTorch-book](https://github.com/chenyuntc/pytorch-book) 国人写的书，已更新到最新PyTorch0.4.1版本
+- [PyTorch-tutorial](https://github.com/yunjey/pytorch-tutorial) PyTorch代码实践，里面的例子都很简单明了
+- [PyTorch-kaggle-starter](https://github.com/bfortuner/pytorch-kaggle-starter) PyTorch的Kaggle教程，用jupyter写的
+- [TensorBoardX](https://github.com/lanpa/tensorboardX) PyTorch的TensorBoard
+
+### Tensorflow
 - [Tensorflow中文社区指南](http://www.tensorfly.cn/tfdoc/tutorials/overview.html)
 - [Keras中文文档](https://keras-cn.readthedocs.io/en/latest/)
-- [PyTorch中文网](https://www.pytorchtutorial.com/)
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
 ## Easy-Demo
