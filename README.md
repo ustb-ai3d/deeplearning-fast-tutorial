@@ -1,7 +1,11 @@
-# deeplearning-fast-tutorial
-🚀 A tutorial that can dive into deep learning quickly.
+<h1 align="center">
+    deeplearning-fast-tutorial
+</h1>
+<p align="center">
+    🚀 A tutorial that can dive into deep learning quickly.
+</p>
 
-## 计算机视觉
+## 计算机视觉 (CV)
 
 ### 网课
 - [Fei-Fei Li's cs231n 斯坦福李飞飞视觉识别](https://study.163.com/course/courseMain.htm?courseId=1004697005)
@@ -35,11 +39,10 @@
 ### 电子书
 - [《DeepLearning》中文版](https://github.com/exacity/deeplearningbook-chinese)
 
-## 自然语言处理
+## 自然语言处理 (NLP)
 
 ### 网课
-- [Natural Language Processing, by Michael Collins, Columbia University](https://www.bilibili.com/video/av12269177)
-- [相关讲义](http://www.cs.columbia.edu/~cs4705/)
+- [Natural Language Processing, by Michael Collins, Columbia University](https://www.bilibili.com/video/av12269177) | [相关讲义](http://www.cs.columbia.edu/~cs4705/)
 - [CS224d: Deep Learning for Natural Language Processing](http://web.stanford.edu/class/cs224d/syllabus.html)
 
 ## How to make a contribution
